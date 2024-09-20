@@ -1,10 +1,11 @@
 # Act9_clases_v3
 clases
 - codigo
-- ![image](https://github.com/user-attachments/assets/0dfbb67e-e2ac-4371-9e49-363146b4e002)
+- ![image](https://github.com/user-attachments/assets/e3beb56c-b707-40c4-86c5-cb6ee07bdc36)
 - ![image](https://github.com/user-attachments/assets/20d93e4d-c3b9-4fd7-9139-b123c9eeb366)
 - resultado
-- ![image](https://github.com/user-attachments/assets/f8e2b217-0d5d-4f08-b3c8-429d6255980e)
+- ![image](https://github.com/user-attachments/assets/466e6e5d-4d91-4e74-ad28-7d2a2f7e6ec4)
+
 
 
 
